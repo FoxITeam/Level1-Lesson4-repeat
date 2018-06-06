@@ -3,6 +3,7 @@ package ru.foxit.grayfox;
 import java.util.Random;
 import java.util.Scanner;
 
+
 /**
  * Author XOGame.java - GrayFox | Ilya Lisin
  * Contact: Skype: foxygameskype | Telegram: +7(925)316-65-82 | vk: https://vk.com/exsperto1
